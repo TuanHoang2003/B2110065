@@ -2,7 +2,7 @@
 # <h1 align="center">B2110065</h1>
 
 ## <h2 align="center">🎉 TuanHoang2003</h2>
-<p>Chào mừng bạn đến với dự án <strong>B2110065</strong>! Dự án này nhằm mục đích ... (mô tả ngắn gọn về dự án).</p>
+<p>Chào mừng bạn đến với dự án <strong>B2110065</strong>! Dự án này nhằm mục đích nộp bài thực hành.</p>
 
 ## <h2>🚀 Hướng Dẫn Cài Đặt</h2>
 <ol>
