@@ -14,16 +14,15 @@
 
 ## <h2>🌟 Tính Năng</h2>
 <ul>
-  <li>Tính năng 1</li>
-  <li>Tính năng 2</li>
-  <li>Tính năng 3</li>
+  <li> Chưa cập nhật</li>
+  
 </ul>
 
 ## <h2>👥 Thông Tin Nhóm</h2>
 <ul>
   <li><strong>Phạm Hoàng Tuấn</strong> - Trưởng nhóm</li>
-  <li><strong>Võ Nguyễn Khải Minh</strong> - Vai trò</li>
-  <li><strong>Thành viên 3</strong> - Vai trò</li>
+  <li><strong>Võ Nguyễn Khải Minh</strong> - Thành Viên</li>
+  
 </ul>
 
 ## <h2>📧 Liên Hệ</h2>
