@@ -27,7 +27,7 @@
 </ul>
 
 ## <h2>📧 Liên Hệ</h2>
-<p>Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: <a href="mailto:tuan@example.com">tuan@example.com</a></p>
+<p>Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: <a href="mailto:tuanb2110065@student.ctu.edu.vn">tuanb2110065@student.ctu.edu.vn</a></p>
 
 ## <h2>📄 Giấy phép</h2>
 <p>Dự án này sử dụng giấy phép <a href="LICENSE">MIT</a>.</p>
